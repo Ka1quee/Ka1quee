@@ -27,4 +27,6 @@
   <a href = "mailto:kaiqueoliveira375@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-oliveira-489451251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+![Snake animation](https://github.com/ka1quee/ka1quee/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
