@@ -1,7 +1,7 @@
 ### Olá! Me chamo Kaique Oliveira
 
 - 🔭 Estou trabalhando com HTML, CSS e Java Script para meu TCC
-- 🌱 Estudando HTML, css e Java Script
+- 🌱 Estudando HTML, CSS, Java Script e React
 
 
 <div align="center">
