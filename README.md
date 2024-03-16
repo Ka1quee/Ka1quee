@@ -1,9 +1,5 @@
 ### Olá! Me chamo Kaique Oliveira
 
-- 🔭 Estou trabalhando com HTML, CSS e Java Script para meu TCC
-- 🌱 Estudando HTML, CSS, Java Script e React
-
-
 <div align="center">
   <a href="https://github.com/Ka1quee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ka1quee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
