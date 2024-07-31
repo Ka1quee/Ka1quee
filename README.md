@@ -28,16 +28,6 @@
  
 <!--![Snake animation](https://github.com/ka1quee/ka1quee/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--header-->
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <details open>
-        <summary>Full year calendar</summary>
-        <img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar (Full Year)">
-      </details>
-    </td>
-  </tr>
-</table>
+
 <!--/header-->
 
